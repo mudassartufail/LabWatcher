@@ -1,0 +1,33 @@
+/* please use this file for your own styles 
+ * it's need for easiest update of newest wersions
+*/
+#international, #national
+{
+	line-height: 15px;
+}
+.ttl
+{
+	line-height: 15px;
+}
+.invoiceUnder
+{
+	text-decoration: underline;
+}
+.hc
+{
+	 font-size: 16px !important;
+}
+#left_hd
+{
+	float: left;
+    width: 300px;
+	
+}
+#ppra_venderNum p
+{
+	border: 1px solid;
+    float: left;
+    margin: 0;
+    padding-left: 5px;
+    padding-right: 40px;
+}

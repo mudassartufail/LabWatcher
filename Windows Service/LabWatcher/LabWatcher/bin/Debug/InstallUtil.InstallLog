@@ -1,0 +1,1617 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\LabWatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\LabWatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: An exception occurred in the OnAfterInstall event handler of System.ServiceProcess.ServiceInstaller.
+The inner exception System.InvalidOperationException was thrown with the following error message: Cannot start service Service1 on computer '.'..
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: The service cannot be started, either because it is disabled or because it has no enabled devices associated with it.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: An exception occurred in the OnAfterInstall event handler of System.ServiceProcess.ServiceInstaller.
+The inner exception System.InvalidOperationException was thrown with the following error message: Cannot start service Service1 on computer '.'..
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: The service cannot be started, either because it is disabled or because it has no enabled devices associated with it.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: An exception occurred in the OnAfterInstall event handler of System.ServiceProcess.ServiceInstaller.
+The inner exception System.InvalidOperationException was thrown with the following error message: Cannot start service Service1 on computer '.'..
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: An instance of the service is already running.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: An exception occurred in the OnAfterInstall event handler of System.ServiceProcess.ServiceInstaller.
+The inner exception System.InvalidOperationException was thrown with the following error message: Cannot start service Service1 on computer '.'..
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: An instance of the service is already running.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at D:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.exe assembly's progress.
+The file is located at E:\Project\LabWatcher\LabWatcher\bin\Debug\labwatcher.InstallLog.
+
+The uninstall has completed.

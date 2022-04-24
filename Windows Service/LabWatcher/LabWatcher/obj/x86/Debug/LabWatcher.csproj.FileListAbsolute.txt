@@ -1,0 +1,27 @@
+E:\My Projects\Lab Watcher\Project Development\Construction Material\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe
+E:\My Projects\Lab Watcher\Project Development\Construction Material\LabWatcher\LabWatcher\bin\Debug\LabWatcher.pdb
+E:\My Projects\Lab Watcher\Project Development\Construction Material\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.ProjectInstaller.resources
+E:\My Projects\Lab Watcher\Project Development\Construction Material\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.csproj.GenerateResource.Cache
+E:\My Projects\Lab Watcher\Project Development\Construction Material\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.exe
+E:\My Projects\Lab Watcher\Project Development\Construction Material\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.pdb
+E:\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.exe
+E:\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.pdb
+E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe
+E:\LabWatcher\LabWatcher\bin\Debug\LabWatcher.pdb
+E:\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.ProjectInstaller.resources
+E:\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.csproj.GenerateResource.Cache
+E:\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.csprojResolveAssemblyReference.cache
+D:\Project\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.exe
+D:\Project\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.pdb
+D:\Project\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe
+D:\Project\LabWatcher\LabWatcher\bin\Debug\LabWatcher.pdb
+D:\Project\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.csprojResolveAssemblyReference.cache
+D:\Project\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.ProjectInstaller.resources
+D:\Project\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.csproj.GenerateResource.Cache
+E:\Project\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.exe
+E:\Project\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.pdb
+E:\Project\LabWatcher\LabWatcher\bin\Debug\LabWatcher.exe
+E:\Project\LabWatcher\LabWatcher\bin\Debug\LabWatcher.pdb
+E:\Project\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.csprojResolveAssemblyReference.cache
+E:\Project\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.ProjectInstaller.resources
+E:\Project\LabWatcher\LabWatcher\obj\x86\Debug\LabWatcher.csproj.GenerateResource.Cache
